@@ -1,3 +1,5 @@
+# fork notes
+we obtain the miRNA–disease association dataset, including 546 miRNAs, 333 diseases and 6077 miRNA–disease associations. 
 
 =======================================================================================================
 Welcome to use PDMDA algorithm. PDMDA is a novel and effective computational model for predicting deep-level miRNA-disease association.
